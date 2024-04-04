@@ -1,0 +1,44 @@
+[
+    {
+        "Id": "1",
+        "Title": "Trenuj z Kasią",
+        "NazwaPowiazanejUslugi": "Fitness z Kasią",
+        "Priority": 2,
+        "ImageUrl": "https://turkawasolutions.eu/wp-content/uploads/Carousel/carouselkucyk.png"
+    },
+    {
+        "Id": "2",
+        "Title": "Turkawa Solutions",
+        "NazwaPowiazanejUslugi": "Turkawa",
+        "Priority": 2,
+        "ImageUrl": "carouselkuc"
+    },
+    {
+        "Id": "3",
+        "Title": "Zdrówko",
+        "NazwaPowiazanejUslugi": "Akcja oddawania krwi",
+        "Priority": 2,
+        "ImageUrl": "https://i.postimg.cc/13r4jG2C/blooddonationthumb.png"
+    },
+    {
+        "Id": "4",
+        "Title": "Miejsce",
+        "NazwaPowiazanejUslugi": "Ciapek",
+        "Priority": 2,
+        "ImageUrl": "https://i.postimg.cc/zf9DbskM/doglarge.jpg"
+    },
+    {
+        "Id": "5",
+        "Title": "Miejsce",
+        "NazwaPowiazanejUslugi": "Sunia",
+        "Priority": 2,
+        "ImageUrl": "https://i.postimg.cc/zf9DbskM/doglarge.jpg"
+    },
+    {
+        "Id": "6",
+        "Title": "Miejsce",
+        "NazwaPowiazanejUslugi": "Twoje ogłoszenie",
+        "Priority": 2,
+        "ImageUrl": "carouselmiejscenew"
+    }
+]
