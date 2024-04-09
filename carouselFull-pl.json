@@ -1,4 +1,6 @@
- "Name": "Fitness z Kasią",
+[
+    {
+        "Name": "Fitness z Kasią",
         "CarouselPicture": "https://turkawasolutions.eu/wp-content/uploads/Carousel/carouselkucyk.png",
         "Category": "fitness",
         "CastDirection": "localservice",
@@ -77,3 +79,5 @@
         "Telephone": "888545545",
         "Url": "",
         "WhenLost": "2024-03-11T00:00:00"
+    }
+]
