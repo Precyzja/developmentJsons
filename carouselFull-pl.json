@@ -19,7 +19,8 @@
         "Priority": 2,
         "ShortDescription": "Najlepszy w Mieście",
         "SubCategory": "none",
-        "Telephone": "+48 661 832 284"
+        "Telephone": "+48 661 832 284",
+        "Paid": null
     },
     {
         "CarouselId": 11,
