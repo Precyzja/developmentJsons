@@ -1,5 +1,6 @@
 [
     {
+        "CarouselId": 10,
         "Name": "Fitness z Kasią",
         "CarouselPicture": "https://turkawasolutions.eu/wp-content/uploads/Carousel/carouselkucyk.png",
         "Category": "fitness",
@@ -21,12 +22,14 @@
         "Telephone": "+48 661 832 284"
     },
     {
+        "CarouselId": 11,
         "CarouselPicture": "carouselkuc",
         "Category": "other",
         "CastDirection": "localservice",
         "Name": "Turkawa"
     },
     {
+        "CarouselId": 12,
         "Name": "Twoje ogłoszenie",
         "Category": "other",
         "CastDirection": "localservice",
@@ -44,6 +47,7 @@
         "Telephone": "+48 661 832 284"
     },
     {
+        "CarouselId": 13,
         "Name": "Akcja oddawania krwi",
         "Type": "zdrowie",
         "CarouselPicture": "https://i.postimg.cc/13r4jG2C/blooddonationthumb.png",
@@ -59,6 +63,7 @@
         "Wstep": "Wstęp wolny"
     },
     {
+        "CarouselId": 14,
         "Category": "lost",
         "Name": "Sunia",
         "CarouselPicture": "https://i.postimg.cc/zf9DbskM/doglarge.jpg",
