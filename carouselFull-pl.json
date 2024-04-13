@@ -1,6 +1,7 @@
 [
     {
         "CarouselId": 10,
+        "IsActive": true,
         "Name": "Fitness z Kasią",
         "CarouselPicture": "https://turkawasolutions.eu/wp-content/uploads/Carousel/carouselkucyk.png",
         "Category": "fitness",
@@ -13,7 +14,7 @@
         "Longitude": 21.747368738229515,
         "Mail": "girlfriend182@gmail.com",
         "MainImage": "defaultmainfitness",
-        "OpenHours": "Wtorek 19.00 - 20.00\nWtorek 20.00 - 21.00\n\nWkrótce zajęcia również w czwartek!",
+        "OpenHours": "Wtorek 19.00 - 20.00\nWtorek 20.00 - 21.00\nCzwartek 19.00 - 20.00\nCzwartek 20.00 - 21.00",
         "Place": "Sala fitness na 1-szym piętrze basenu krytego SOSiR",
         "Pricing": "20 PLN trening indywidualny, karnet miesięczny 50000 zł",
         "Priority": 2,
@@ -23,6 +24,7 @@
     },
     {
         "CarouselId": 11,
+        "IsActive": true,
         "CarouselPicture": "carouselkuc",
         "Category": "other",
         "CastDirection": "localservice",
@@ -30,6 +32,7 @@
     },
     {
         "CarouselId": 12,
+        "IsActive": true,
         "Name": "Twoje ogłoszenie",
         "Category": "other",
         "CastDirection": "localservice",
@@ -48,6 +51,7 @@
     },
     {
         "CarouselId": 13,
+        "IsActive": false,
         "Name": "Akcja oddawania krwi",
         "Type": "zdrowie",
         "CarouselPicture": "https://i.postimg.cc/13r4jG2C/blooddonationthumb.png",
@@ -64,6 +68,7 @@
     },
     {
         "CarouselId": 14,
+        "IsActive": true,
         "Category": "lost",
         "Name": "Sunia",
         "CarouselPicture": "https://i.postimg.cc/zf9DbskM/doglarge.jpg",
