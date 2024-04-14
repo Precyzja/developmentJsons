@@ -1,7 +1,7 @@
 [
     {
         "CarouselId": 10,
-        "Version": 1,
+        "Version": 2,
         "IsActive": true,
         "Name": "Fitness z Kasią",
         "CarouselPicture": "https://turkawasolutions.eu/wp-content/uploads/Carousel/carouselkucyk.png",
@@ -15,7 +15,7 @@
         "Longitude": 21.747368738229515,
         "Mail": "girlfriend182@gmail.com",
         "MainImage": "defaultmainfitness",
-        "OpenHours": "Wtorek 19.00 - 20.00\nWtorek 20.00 - 21.00\nCzwartek 19.00 - 20.00\nCzwartek 20.00 - 21.00",
+        "OpenHours": "Poniedziałek:\n18.15 - Stretching\n19.00 - Total Body\n\nWtorek: \n19.00 - Total Body\n20.00 - Trening Prozdrowotny\n\nCzwratek:\n19.00 - Trening Obwodowy\n20.00 - Shape & Stretch\n\nJuż wkrótce zajęcia ze sztangami!",
         "Place": "Sala fitness na 1-szym piętrze basenu krytego SOSiR",
         "Pricing": "20 PLN trening indywidualny, karnet miesięczny 50000 zł",
         "Priority": 2,
