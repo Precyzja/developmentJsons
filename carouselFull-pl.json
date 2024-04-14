@@ -1,6 +1,7 @@
 [
     {
         "CarouselId": 10,
+        "Version": 1,
         "IsActive": true,
         "Name": "Fitness z Kasią",
         "CarouselPicture": "https://turkawasolutions.eu/wp-content/uploads/Carousel/carouselkucyk.png",
@@ -24,6 +25,7 @@
     },
     {
         "CarouselId": 11,
+        "Version": 1,
         "IsActive": true,
         "CarouselPicture": "carouselkuc",
         "Category": "other",
@@ -32,6 +34,7 @@
     },
     {
         "CarouselId": 12,
+        "Version": 1,
         "IsActive": true,
         "Name": "Twoje ogłoszenie",
         "Category": "other",
@@ -51,6 +54,7 @@
     },
     {
         "CarouselId": 13,
+        "Version": 1,
         "IsActive": false,
         "Name": "Akcja oddawania krwi",
         "Type": "zdrowie",
@@ -68,7 +72,8 @@
     },
     {
         "CarouselId": 14,
-        "IsActive": true,
+        "Version": 1,
+        "IsActive": false,
         "Category": "lost",
         "Name": "Sunia",
         "CarouselPicture": "https://i.postimg.cc/zf9DbskM/doglarge.jpg",
