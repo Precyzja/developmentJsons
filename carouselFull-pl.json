@@ -13,15 +13,16 @@
         "EnglishSprechen": "Available also in English",
         "Latitude": 50.41784448784952,
         "Longitude": 21.747368738229515,
-        "Mail": "girlfriend182@gmail.com",
+        "Mail": "",
         "MainImage": "defaultmainfitness",
-        "OpenHours": "Poniedziałek:\n18.15 - Stretching\n19.00 - Total Body\n\nWtorek: \n19.00 - Total Body\n20.00 - Trening Prozdrowotny\n\nCzwratek:\n19.00 - Trening Obwodowy\n20.00 - Shape & Stretch\n\nJuż wkrótce zajęcia ze sztangami!",
+        "OpenHours": "Poniedziałek:\n18.30 - Sztangi Fitness\n19.30 - Total Body\n\nWtorek:\n19.00 - Total Body\n20.00 - Trening Prozdrowotny\n\nCzwartek:\n19.00 - Trening Obwodowy\n20.00 - Shape & Stretch",
         "Place": "Sala fitness na 1-szym piętrze basenu krytego SOSiR",
-        "Pricing": "20 PLN wejście jednorazowe, dostępne karnety miesięczne",
+        "Pricing": "20 zł wejście pojedyncze, dostępne karnety!",
         "Priority": 2,
         "ShortDescription": "Najlepszy w Mieście",
         "SubCategory": "none",
         "Telephone": "+48 661 832 284"
+		
     },
     {
         "CarouselId": 11,
@@ -45,12 +46,13 @@
         "Longitude": 0,
         "Mail": "mcity@turkawasolutions.eu",
         "CarouselPicture": "carouselmiejscenew",
-        "Place": "Test",
-        "Pricing": "Test",
+        "Place": "Strona główna aplikacji mCity Nowa Dęba - obszar przewijalny u góry strony",
+        "Pricing": "Zapraszamy do kontaktu :)",
         "Priority": 2,
-        "ShortDescription": "w mCity",
+        "ShortDescription": "w mCity Nowa Dęba",
         "SubCategory": "none",
-        "Telephone": "+48 661 832 284"
+        "Telephone": "+48 513 418 047",
+		"MainImage": "https://turkawasolutions.eu/wp-content/uploads/Carousel/mcityreklama.png"
     },
     {
         "CarouselId": 13,
