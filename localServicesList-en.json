@@ -42,7 +42,7 @@
         "Name": "Tailor",
         "CategoryName": "tailor",
         "ImageUrl": "newtailor",
-        "PageTitle": "Tailor, shoe repair",
+        "PageTitle": "Tailor services",
         "FilterOneName": null,
         "FilterTwoName": null,
         "FilterThreeName": null,
@@ -65,7 +65,7 @@
         "FilterSevenName": null
     },
     {
-        "Name": "Culture clubs",
+        "Name": "Free time activities",
         "CategoryName": "cultureClubs",
         "ImageUrl": "newculture",
         "PageTitle": "Culture clubs",
