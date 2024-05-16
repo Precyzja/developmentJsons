@@ -38,6 +38,19 @@
         "FilterSixName": null,
         "FilterSevenName": null
     },
+	{
+        "Name": "Taxi i transport",
+        "CategoryName": "taxi",
+        "ImageUrl": "https://turkawasolutions.eu/wp-content/uploads/Services/Icons/newtaxi.png",
+        "PageTitle": "Taxi",
+        "FilterOneName": null,
+        "FilterTwoName": null,
+        "FilterThreeName": null,
+        "FilterFourName": null,
+        "FilterFiveName": null,
+        "FilterSixName": null,
+        "FilterSevenName": null
+    },
     {
         "Name": "Usługi krawieckie",
         "CategoryName": "tailor",
@@ -74,6 +87,19 @@
         "FilterThreeName": "Dla dzieci",
         "FilterFourName": "Dla młodzieży",
         "FilterFiveName": "Dla dorosłych",
+        "FilterSixName": null,
+        "FilterSevenName": null
+    },
+	{
+        "Name": "Korepetycje",
+        "CategoryName": "tutoring",
+        "ImageUrl": "https://turkawasolutions.eu/wp-content/uploads/Services/Icons/newtutoring.png",
+        "PageTitle": "Korepetycje i nauka",
+        "FilterOneName": null,
+        "FilterTwoName": null,
+        "FilterThreeName": null,
+        "FilterFourName": null,
+        "FilterFiveName": null,
         "FilterSixName": null,
         "FilterSevenName": null
     },
@@ -169,7 +195,7 @@
         "FilterSevenName": null
     },
     {
-        "Name": "Opieka nad Bombelkiem",
+        "Name": "Opieka nad dzieckiem",
         "CategoryName": "bombelekCare",
         "ImageUrl": "newbombelek",
         "PageTitle": "Twój bombelek",
