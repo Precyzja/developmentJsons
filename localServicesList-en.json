@@ -37,6 +37,20 @@
         "FilterFiveName": null,
         "FilterSixName": null,
         "FilterSevenName": null
+		
+    },
+	{
+        "Name": "Taxi",
+        "CategoryName": "taxi",
+        "ImageUrl": "https://turkawasolutions.eu/wp-content/uploads/Services/Icons/newtaxi.png",
+        "PageTitle": "Taxi",
+        "FilterOneName": null,
+        "FilterTwoName": null,
+        "FilterThreeName": null,
+        "FilterFourName": null,
+        "FilterFiveName": null,
+        "FilterSixName": null,
+        "FilterSevenName": null
     },
     {
         "Name": "Tailor",
@@ -74,6 +88,19 @@
         "FilterThreeName": "Children",
         "FilterFourName": "Youth",
         "FilterFiveName": "Adults",
+        "FilterSixName": null,
+        "FilterSevenName": null
+    },
+	{
+        "Name": "Tutoring",
+        "CategoryName": "tutoring",
+        "ImageUrl": "https://turkawasolutions.eu/wp-content/uploads/Services/Icons/newtutoring.png",
+        "PageTitle": "Tutoring and learning",
+        "FilterOneName": null,
+        "FilterTwoName": null,
+        "FilterThreeName": null,
+        "FilterFourName": null,
+        "FilterFiveName": null,
         "FilterSixName": null,
         "FilterSevenName": null
     },
