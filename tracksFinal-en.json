@@ -1240,7 +1240,7 @@
         "OkBicycle": true,
         "OkBombelek": false,
         "Official": false,
-        "Difficulty": 1,
+        "Difficulty": 3,
       "CenterPoint": {
         "Latitude": 50.34569608317723,
         "Longitude": 21.800019160351624
@@ -3065,7 +3065,7 @@
     "OkBicycle": true,
     "OkBombelek": false,
     "Official": true,
-    "Difficulty": 2,
+    "Difficulty": 1,
     "CenterPoint": {
       "Latitude": 50.4327,
       "Longitude": 21.7219
@@ -4894,7 +4894,7 @@
         "OkBicycle": true,
         "OkBombelek": false,
         "Official": false,
-        "Difficulty": 2,
+        "Difficulty": 1,
         "CenterPoint": {
       "Latitude": 50.41181124321466,
       "Longitude": 21.74639412458387
