@@ -1,7 +1,7 @@
 [
     {
         "CarouselId": 10,
-        "Version": 3,
+        "Version": 4,
         "IsActive": true,
         "Name": "Fitness workshop",
         "Type": "sport-en",
