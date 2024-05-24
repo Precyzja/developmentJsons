@@ -1,7 +1,7 @@
 [
     {
         "CarouselId": 10,
-        "Version": 3,
+        "Version": 4,
         "IsActive": true,
         "Name": "Warsztat Fitness",
         "Type": "sport",
@@ -14,7 +14,7 @@
         "ShortDescription": "Jak ćwiczyć ze sztangą",
         "Start": "2024-06-08T10:00:00",
         "Url": null,
-        "Wstep": "Informacja pod numerem telefonu +48 661 832 284"
+        "Wstep": "Informacja i zapisy pod numerem telefonu +48 661 832 284"
     },
     {
         "CarouselId": 11,
