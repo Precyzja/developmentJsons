@@ -28,7 +28,7 @@
     {
         "CarouselId": 12,
         "IsActive": true,
-        "Version": 1,
+        "Version": 2,
         "Name": "Your ad in mCity",
         "Category": "other",
         "CastDirection": "localservice",
