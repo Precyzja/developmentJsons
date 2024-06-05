@@ -17,13 +17,22 @@
         "Wstep": "Call us to enroll and get more info +48 661 832 284"
     },
     {
-        "CarouselId": 11,
-        "Version": 1,
+      "CarouselId": 11,
+        "Version": 2,
         "IsActive": true,
-        "CarouselPicture": "carouselkuc",
-        "Category": "other",
-        "CastDirection": "localservice",
-        "Name": "Turkawa"
+        "CarouselPicture": "https://turkawasolutions.eu/wp-content/uploads/Carousel/fifaen.png",
+        "CastDirection": "localevent",
+        "Type": "fifa-en",
+        "Language": "en",
+        "Lokacja": "Details will be provided soon!",
+        "LongDescription": "VrGsm Announcement!\n\nWe are happy to announce that from Monday to Saturday (June 3-9, 2024) we are accepting registrations for the FC24 tournament!\n\nDon't miss the opportunity to join the exciting competition and prove your skills. Sign up today and be part of this amazing adventure!\n\nRegistration: 3-9/06/2024, according to our standard opening hours.\n\nAge: The tournament is open to everyone! For minor participants, consent from a guardian or parent is required.\n\nWe will keep you informed about the next stages of the competition depending on your interest. The finale of the exciting competition will take place on June 29, 2024 in front of the community center, where we will all witness the fiercest duels on the large screen of the night cinema!\n\nSee you soon!",
+        "MainImage": "https://turkawasolutions.eu/wp-content/uploads/Events/Fifa/fifamain.jpg",
+        "Name": "FC24 tournament",
+        "ShortDescription": "by VrGsm",
+        "Start": "2024-06-29T18:00:00",
+        "Thumbnail": "https://turkawasolutions.eu/wp-content/uploads/Events/Fifa/fifamainthumb.jpg",
+        "Url": "https://www.facebook.com/profile.php?id=100083024297841",
+        "Wstep": "Contact us to enroll between 3rd and 9th of June!"
     },
     {
         "CarouselId": 12,
