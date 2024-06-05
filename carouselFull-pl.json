@@ -17,13 +17,22 @@
         "Wstep": "Informacja i zapisy pod numerem telefonu +48 661 832 284"
     },
     {
-        "CarouselId": 11,
-        "Version": 1,
+       "CarouselId": 11,
+        "Version": 2,
         "IsActive": true,
-        "CarouselPicture": "carouselkuc",
-        "Category": "other",
-        "CastDirection": "localservice",
-        "Name": "Turkawa"
+        "CarouselPicture": "https://turkawasolutions.eu/wp-content/uploads/Carousel/fifapl.png",
+        "CastDirection": "localevent",
+        "Type": "fifa",
+        "Language": "pl",
+        "Lokacja": "Szczegóły rozgrywek już wkrótce",
+        "LongDescription": "Ogłoszenie VrGsm!\n\nZ radością informujemy, że od poniedziałku do soboty (3-9 czerwca 2024) przyjmujemy zapisy na turniej FC24!\n\nNie przegap okazji, aby dołączyć do emocjonującej rywalizacji i wykazać się swoimi umiejętnościami. Zapisz się już dziś i bądź częścią tej niesamowitej przygody!\n\nZapisy: 3-9.06.2024, zgodnie z naszymi standardowymi godzinami otwarcia.\n\nWiek: Turniej jest otwarty dla wszystkich! Dla uczestników niepełnoletnich wymagana jest zgoda opiekuna lub rodzica. \n\nBędziemy na bieżąco informować o dalszych etapach rozgrywek w zależności od zainteresowania. Finał emocjonujących zmagań odbędzie się 29 czerwca 2024 przed domem kultury, gdzie na wielkim telebimie kina nocnego wszyscy będziemy świadkami najbardziej zaciętych pojedynków!\n\nDo zobaczenia wkrótce!",
+        "MainImage": "https://turkawasolutions.eu/wp-content/uploads/Events/Fifa/fifamain.png",
+        "Name": "Turniej FC24",
+        "ShortDescription": "Organizator: VrGsm",
+        "Start": "2024-06-29T18:00:00",
+        "Thumbnail": "https://turkawasolutions.eu/wp-content/uploads/Events/Fifa/fifamainthumb.jpg",
+        "Url": "https://www.facebook.com/profile.php?id=100083024297841",
+        "Wstep": "Zapisy 3-9 czerwca!"
     },
     {
         "CarouselId": 12,
