@@ -29,10 +29,10 @@
     },
 	{
 	  "CarouselId": 11,
-      "Version": 6,
+      "Version": 7,
 	  "Category": "renovation",
 	  "IsActive": true,
-	  "CarouselPicture": "https://turkawasolutions.eu/wp-content/uploads/Carousel/carouselkucyk.png",
+	  "CarouselPicture": "https://turkawasolutions.eu/wp-content/uploads/Carousel/jerrycarouselen.png",
       "CastDirection": "localservice",
 	  "CreatedAt": "2024-06-26T23:26:57",
 		 "Date": null,
