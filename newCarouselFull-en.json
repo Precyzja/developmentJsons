@@ -1,6 +1,24 @@
 [
     {
-      "CarouselId": 10,
+        "CarouselId": 10,
+        "Version": 1,
+        "IsActive": true,
+        "CarouselPicture": "https://turkawasolutions.eu/wp-content/uploads/Carousel/powodz.png",
+        "CastDirection": "localevent",
+        "Type": "gmina-en",
+        "Language": "en",
+        "Lokacja": "Details on the website of the Nowa Dęba - link below.",
+        "LongDescription": "Due to the dramatic weather situation in Lower Silesia and Opole Province, the Nowa Dęba Commune is organizing a collection of the most needed items. We encourage residents to support the campaign by bringing selected products to the indicated locations on selected dates. Mayor Wiesław Ordon will ask the City Council to grant financial support to one of the communes in the Kłodzko Valley, which will help in removing the effects of the flood.\n\nMost needed items:\n\n- Long-term food: canned meat, fish, pasta, rice, groats, sugar, flour, breakfast cereals, salt, bottled water, juices, oil, olive oil, spices;\n- Food for children: groats, powdered milk, jars of baby food;\n- Chemical and hygiene products: washing powders, soaps, shampoos, shower gels, toothpastes, toothbrushes, - paper towels, toilet paper.\n\nMeeting points:\n\n- Nowa Dęba: Cultural Centre and Social Welfare Centre;\n- Alfredówka / Buda Stalowska: Volunteer Fire Department in Alfredówka;\n- Chmielów: Cultural Centre / village hall;\n- Cygany: Lasowiacka Cultural Centre / village hall;\n- Osiedle Dęba: Volunteer Fire Department;\n- Jadachy: Volunteer Fire Department;\n- Osiedle Poręby Dębskie: Volunteer Fire Department;\n- Rozalin: Community Centre;\n- Tarnowska Wola: Community Centre.",
+        "MainImage": "https://turkawasolutions.eu/wp-content/uploads/Events/Community/powodzmain.jpg",
+        "Name": "Help for flood victims",
+        "ShortDescription": "Donation collection",
+        "Start": "2024-09-16T16:00:00+02:00",
+        "Thumbnail": "https://turkawasolutions.eu/wp-content/uploads/Events/Fifa/fifamainthumb.jpg",
+        "Url": "http://www.nowadeba.pl/mieszkaniec/aktualnosci/art,11893,gmina-nowa-deba-solidarna-z-powodzianami-uruchamiamy-zbiorke-najpotrzebniejszych-rzeczy.html",
+        "Wstep": null
+    },
+	{
+      "CarouselId": 11,
       "Version": 4,
       "IsActive": true,
       "CarouselPicture": "https://turkawasolutions.eu/wp-content/uploads/Carousel/vrgsmen.png",
@@ -29,7 +47,7 @@
     },
     
 	{
-	  "CarouselId": 11,
+	  "CarouselId": 12,
       "Version": 8,
 	  "Category": "renovation",
 	  "IsActive": true,
@@ -51,26 +69,5 @@
 		 "Priority": 1,
 		 "ShortDescription": "Interior design & visualization",
 		 "Telephone": "+48 730 787 737"
-    },
-	{
-        "CarouselId": 12,
-        "IsActive": true,
-        "Version": 3,
-        "Name": "Your ad in mCity",
-        "Category": "other",
-        "CastDirection": "localservice",
-        "Description": "If you'd like your ad to appear on the mCity home page, let us know! There are only 3 spots available.",
-        "EnglishSprechen": "You can post also in English!",
-        "Latitude": 0,
-        "Longitude": 0,
-        "Mail": "mcity@turkawasolutions.eu",
-        "CarouselPicture": "carouselmiejscenewen",
-        "Place": "mCity Nowa Dęba - top of the main page",
-        "Pricing": "Contact us to discuss details :)",
-        "Priority": 2,
-        "ShortDescription": "w mCity",
-        "SubCategory": "none",
-        "Telephone": "+48 538 646 397",
-		"MainImage": "https://turkawasolutions.eu/wp-content/uploads/Carousel/mcityreklama.png"
     }
 ]
