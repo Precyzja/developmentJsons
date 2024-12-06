@@ -1,6 +1,24 @@
 [
+	{
+        "CarouselId": 10,
+        "Version": 10,
+        "IsActive": true,
+        "Name": "Women's Power",
+        "Type": "gmina",
+        "CarouselPicture": "https://turkawasolutions.eu/wp-content/uploads/Carousel/kucyken.png",
+        "CastDirection": "localevent",
+        "Destination": 3,
+        "Language": "en",
+        "Lokacja": "Cultural Center in Nowa Dęba",
+        "LongDescription": "🌟 Women's Power — Meeting with an Inspiring Woman! 🌟\n\nDid you know that our speaker is not only a civil engineer with international experience, but also a karate champion and IT specialist? 🤯\n\nWant to learn more fascinating facts about her life and passions? Join us at the next meeting in the Women's Power series!\n\nDon't miss this opportunity to be inspired by a story full of passion and determination! 💪✨\n\nLadies and Gentlemen, we invite all of you, this meeting is for everyone! 🙌",
+        "MainImage": "https://turkawasolutions.eu/wp-content/uploads/Events/Fifa/20241130_192349.jpg",
+        "ShortDescription": "Presenter Katarzyna Mocek",
+        "Start": "2024-12-11T18:00:00",
+        "Url": "https://www.facebook.com/share/p/szhhqCHpkLZJjw52/?mibextid=WC7FNe",
+        "Wstep": "Free for all"
+    },
     {
-      "CarouselId": 10,
+      "CarouselId": 11,
       "Version": 4,
       "IsActive": true,
       "CarouselPicture": "https://turkawasolutions.eu/wp-content/uploads/Carousel/vrgsmen.png",
@@ -29,7 +47,7 @@
     },
     
 	{
-	  "CarouselId": 11,
+	  "CarouselId": 12,
       "Version": 8,
 	  "Category": "renovation",
 	  "IsActive": true,
@@ -51,26 +69,5 @@
 		 "Priority": 1,
 		 "ShortDescription": "Interior design & visualization",
 		 "Telephone": "+48 730 787 737"
-    },
-	{
-        "CarouselId": 12,
-        "IsActive": true,
-        "Version": 3,
-        "Name": "Your ad in mCity",
-        "Category": "other",
-        "CastDirection": "localservice",
-        "Description": "If you'd like your ad to appear on the mCity home page, let us know! There are only 3 spots available.",
-        "EnglishSprechen": "You can post also in English!",
-        "Latitude": 0,
-        "Longitude": 0,
-        "Mail": "mcity@turkawasolutions.eu",
-        "CarouselPicture": "carouselmiejscenewen",
-        "Place": "mCity Nowa Dęba - top of the main page",
-        "Pricing": "Contact us to discuss details :)",
-        "Priority": 2,
-        "ShortDescription": "w mCity",
-        "SubCategory": "none",
-        "Telephone": "+48 538 646 397",
-		"MainImage": "https://turkawasolutions.eu/wp-content/uploads/Carousel/mcityreklama.png"
     }
 ]
