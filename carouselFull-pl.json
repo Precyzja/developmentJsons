@@ -2,7 +2,7 @@
 	{
         "CarouselId": 10,
         "Version": 1,
-        "IsActive": false,
+        "IsActive": true,
         "Name": "Spotkanie Siła Kobiet",
         "Type": "gmina",
         "CarouselPicture": "https://turkawasolutions.eu/wp-content/uploads/Carousel/kucykpl.png",
