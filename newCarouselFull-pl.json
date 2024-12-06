@@ -1,7 +1,25 @@
 [
-    {
+	{
         "CarouselId": 10,
-        "Version": 6,
+        "Version": 1,
+        "IsActive": false,
+        "Name": "Spotkanie Siła Kobiet",
+        "Type": "gmina",
+        "CarouselPicture": "https://turkawasolutions.eu/wp-content/uploads/Carousel/kucykpl.png",
+        "CastDirection": "localevent",
+        "Destination": 3,
+        "Language": "pl",
+        "Lokacja": "Samorządowy Ośrodek Kultury w Nowej Dębie (sala kameralna)",
+        "LongDescription": "🌟 Siła Kobiet — Spotkanie z Inspirującą Kobietą! 🌟 \n\nCzy wiesz, że nasza prelegentka to nie tylko inżynier budownictwa z międzynarodowym doświadczeniem, ale także mistrzyni karate i specjalistka IT? 🤯 \n\nChcesz poznać więcej fascynujących faktów o jej życiu i pasjach? Dołącz do nas na kolejnym spotkaniu z cyklu Siła Kobiet! \n\nNie przegap tej okazji, aby zainspirować się historią pełną pasji i determinacji! 💪✨ \n\nPanie i Panowie, Serdecznie zapraszamy, to spotkanie jest dla każdego! 🙌\n",
+        "MainImage": "https://turkawasolutions.eu/wp-content/uploads/Events/Fifa/20241130_192349.jpg",
+        "ShortDescription": "Gość specjalny: Katarzyna Mocek",
+        "Start": "2024-12-11T18:00:00",
+        "Url": "https://www.facebook.com/share/p/szhhqCHpkLZJjw52/?mibextid=WC7FNe",
+        "Wstep": "Wstęp wolny"
+    },
+    {
+        "CarouselId": 11,
+        "Version": 7,
         "IsActive": true,
         "CarouselPicture": "https://turkawasolutions.eu/wp-content/uploads/Carousel/vrgsmpl.png",
         "CastDirection": "localservice",
@@ -28,7 +46,7 @@
         "Website": "https://www.facebook.com/profile.php?id=100083024297841"
     },
 	{
-	"CarouselId": 11,
+	"CarouselId": 12,
         "Version": 7,
         "IsActive": true,
 	"Category": "renovation",
@@ -52,26 +70,5 @@
 	"SubCategory": "filter3 filter5",
 	"Telephone": "+48 730 787 737",
 	"Thumbnail": "https://turkawasolutions.eu/wp-content/uploads/Services/renovation/jerrythumb.jpg"
-    },
-	{
-        "CarouselId": 12,
-        "Version": 2,
-        "IsActive": true,
-        "Name": "Twoje ogłoszenie",
-        "Category": "other",
-        "CastDirection": "localservice",
-        "Description": "Jeżeli chcesz, aby Twoje ogłoszenie pojawiło się na stronie głównej mCity daj nam znać! Jest tylko 3 dostępne miejsca.",
-        "EnglishSprechen": "You can post also in English!",
-        "Latitude": 0,
-        "Longitude": 0,
-        "Mail": "mcity@turkawasolutions.eu",
-        "CarouselPicture": "carouselmiejscenew",
-        "Place": "Strona główna aplikacji mCity Nowa Dęba - obszar przewijalny u góry strony",
-        "Pricing": "Zapraszamy do kontaktu :)",
-        "Priority": 2,
-        "ShortDescription": "w mCity Nowa Dęba",
-        "SubCategory": "none",
-        "Telephone": "+48 538 646 397",
-		"MainImage": "https://turkawasolutions.eu/wp-content/uploads/Carousel/mcityreklama.png"
     }
 ]
