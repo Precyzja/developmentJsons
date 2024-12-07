@@ -41,7 +41,7 @@
 	{
         "Name": "Taxi i transport",
         "CategoryName": "taxi",
-        "ImageUrl": "https://turkawasolutions.eu/wp-content/uploads/Services/Icons/newtaxi.png",
+        "ImageUrl": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Services/Icons/newtaxi.png",
         "PageTitle": "Taxi",
         "FilterOneName": null,
         "FilterTwoName": null,
@@ -93,7 +93,7 @@
 	{
         "Name": "Korepetycje",
         "CategoryName": "tutoring",
-        "ImageUrl": "https://turkawasolutions.eu/wp-content/uploads/Services/Icons/newtutoring.png",
+        "ImageUrl": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Services/Icons/newtutoring.png",
         "PageTitle": "Korepetycje i nauka",
         "FilterOneName": null,
         "FilterTwoName": null,
