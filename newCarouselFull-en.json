@@ -1,6 +1,24 @@
 [
 	{
         "CarouselId": 10,
+        "Version": 15,
+        "IsActive": true,
+        "Name": "Merry Fitness",
+        "Type": "gmina",
+        "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/fitnessen.png",
+        "CastDirection": "localevent",
+        "Destination": 3,
+        "Language": "en",
+        "Lokacja": "📍Cultural Center in Nowa Dęba",
+        "LongDescription": "🌟 🎄 Merry Fitness 🎄 🌟\n\nWe exercise and help animals 🤎\nLets meet together on Christmas edition of fitness classes ☃️during which we raise funds for the Dog Shelter in Nowa Dęba 🐱🐶\n\nWhen?\n🗓️ December 16, 7:00 PM - 8:30 PM\n\nWhere?\n📍Local Government Cultural Center in Nowa Dęba\nDon't miss this opportunity to combine business with pleasure 💪\nGrab a mat, some water and join me! 🔥\n\nFree admission - charity collection 🧡\n...at the end special gifts for all participants 🎁🤭",
+        "MainImage": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Events/Sport/akcjakucykmainen.png",
+        "ShortDescription": "Fitness & charity event",
+        "Start": "2024-12-16T19:00:00",
+        "Url": "https://www.facebook.com/share/p/19nVMWE5KU/",
+        "Wstep": "Free for all"
+    },
+	{
+        "CarouselId": 11,
         "Version": 10,
         "IsActive": true,
         "Name": "Women's Power",
@@ -18,7 +36,7 @@
         "Wstep": "Free for all"
     },
     {
-      "CarouselId": 11,
+      "CarouselId": 12,
       "Version": 4,
       "IsActive": true,
       "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/vrgsmen.png",
@@ -44,30 +62,5 @@
       "Telephone": "+48 607 167 967",
       "Thumbnail": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Services/electrofix/vrgsmlogo.jpg",
       "Website": "https://www.facebook.com/profile.php?id=100083024297841"
-    },
-    
-	{
-	  "CarouselId": 12,
-      "Version": 8,
-	  "Category": "renovation",
-	  "IsActive": true,
-	  "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/jerrycarouselen.png",
-      "CastDirection": "localservice",
-	  "CreatedAt": "2024-06-26T23:26:57",
-		 "Date": null,
-		 "Description": "I am experienced and creative furniture designer, with 10 years of experience, whose passion is creating unique and functional furniture tailored to the individual needs of customers.\n\nI specialize in creating advanced visualizations for carpenters and others. Thanks to my skills and experience, I can translate clients' visions into realistic and detailed designs that facilitate the process of producing custom-made furniture.\n\nMy work supports carpenters at every stage of implementation, providing precise plans and visual guides that minimize the risk of errors and maximize customer satisfaction.\n\nAre you a carpenter or a private person? Do you need visualization and a detailed design? Feel free to contact me!",
-		 "EnglishSprechen": "With a little help of Google Translate ;)",
-		 "Latitude": 0,
-		 "Longitude": 0,
-		 "Mail": "jerryvision@autograf.pl",
-		 "MainImage": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Services/renovation/jerrymainjarek.jpg",
-		 "Name": "Jerryvision Projekt",
-		 "OpenHours": "Please call us to discuss details.",
-		 "Paid": false,
-		 "Place": "Nowa Dęba",
-		 "Pricing": null,
-		 "Priority": 1,
-		 "ShortDescription": "Interior design & visualization",
-		 "Telephone": "+48 730 787 737"
     }
 ]
