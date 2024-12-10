@@ -5,7 +5,7 @@
         "IsActive": true,
         "Name": "Merry Fitness",
         "Type": "gmina",
-        "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/fitnessen.png",
+        "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/fitnesspl.png",
         "CastDirection": "localevent",
         "Destination": 3,
         "Language": "pl",
