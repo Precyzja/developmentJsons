@@ -23,7 +23,7 @@
         "IsActive": true,
         "Name": "Jarmark Bożonarodzeniowy",
         "Type": "kultura",
-        "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/kucykpl.png",
+        "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/jarmarkpl.jpg",
         "CastDirection": "localevent",
         "Destination": 3,
         "Language": "pl",
