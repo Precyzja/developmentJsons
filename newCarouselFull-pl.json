@@ -1,24 +1,6 @@
 [
-	{
+    {
         "CarouselId": 10,
-        "Version": 15,
-        "IsActive": true,
-        "Name": "Merry Fitness",
-        "Type": "gmina",
-        "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/fitnesspl.png",
-        "CastDirection": "localevent",
-        "Destination": 3,
-        "Language": "pl",
-        "Lokacja": "📍Samorządowy Ośrodek Kultury w Nowej Dębie",
-        "LongDescription": "🌟🎄 Merry Fitness 🎄🌟\n\nĆwiczymy i pomagamy zwierzakom 🤎\nZapraszamy na świąteczne zajęcia fitness ☃️podczas których zbieramy fundusze dla Przytuliska dla psów w Nowej Dębie 🐱🐶\n\nKiedy?\n🗓️ 16 grudnia, 19.00 - 20.30\n\nGdzie?\n📍Samorządowy Ośrodek Kultury w Nowej Dębie\n\nNie przegap tej okazji, by połączyć przyjemne z pożytecznym 💪\n\nŁap za matę, wodę i dołącz do nas! 🔥\n\nWstęp darmowy - zbiórka charytatywna 🧡\n...a na końcu losowanie niespodzianek wśród wszystkich uczestników 🎁🤭",
-        "MainImage": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Events/Sport/akcjakucykmainpl.png",
-        "ShortDescription": "Fitness i akcja charytatywna",
-        "Start": "2024-12-16T19:00:00",
-        "Url": "https://www.facebook.com/share/p/19nVMWE5KU/",
-        "Wstep": "Wstęp wolny"
-    },
-	{
-        "CarouselId": 11,
         "Version": 5,
         "IsActive": true,
         "Name": "Jarmark Bożonarodzeniowy",
@@ -36,7 +18,7 @@
         "Wstep": "Wstęp wolny"
     },
     {
-        "CarouselId": 12,
+        "CarouselId": 11,
         "Version": 7,
         "IsActive": true,
         "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/vrgsmpl.png",
@@ -62,5 +44,26 @@
         "Telephone": "+48 607 167 967",
         "Thumbnail": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Services/electrofix/vrgsmlogo.jpg",
         "Website": "https://www.facebook.com/profile.php?id=100083024297841"
+    },
+    {
+        "CarouselId": 12,
+        "Version": 2,
+        "IsActive": true,
+        "Name": "Twoje ogłoszenie",
+        "Category": "other",
+        "CastDirection": "localservice",
+        "Description": "Jeżeli chcesz, aby Twoje ogłoszenie pojawiło się na stronie głównej mCity daj nam znać! Jest tylko 3 dostępne miejsca.",
+        "EnglishSprechen": "You can post also in English!",
+        "Latitude": 0,
+        "Longitude": 0,
+        "Mail": "mcity@turkawasolutions.eu",
+        "CarouselPicture": "carouselmiejscenew",
+        "Place": "Strona główna aplikacji mCity Nowa Dęba - obszar przewijalny u góry strony",
+        "Pricing": "Zapraszamy do kontaktu :)",
+        "Priority": 2,
+        "ShortDescription": "w mCity Nowa Dęba",
+        "SubCategory": "none",
+        "Telephone": "+48 538 646 397",
+        "MainImage": "https://turkawasolutions.eu/wp-content/uploads/Carousel/mcityreklama.png"
     }
 ]
