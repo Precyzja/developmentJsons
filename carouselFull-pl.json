@@ -3,24 +3,6 @@
         "CarouselId": 10,
         "Version": 6,
         "IsActive": true,
-        "Name": "Jarmark Bożonarodzeniowy",
-        "Type": "kultura",
-        "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/jarmarkpl.jpg",
-        "CastDirection": "localevent",
-        "Destination": 3,
-        "Language": "pl",
-        "Lokacja": "Samorządowy Ośrodek Kultury w Nowej Dębie",
-        "LongDescription": "🎄✨ Zapraszamy na Jarmark Bożonarodzeniowy przy Samorządowym Ośrodku Kultury w Nowej Dębie! 🎅🎶\n\nCzeka na Was mnóstwo świątecznej magii, wyjątkowe występy i atrakcje dla całej rodziny! 🌟🎁\n\n📅 Program wydarzenia:\n\nŚroda, 18 grudnia\n🕕 18:00 – Świąteczny koncert plenerowy: występ Orkiestry Dętej Miasta i Gminy Nowa Dęba oraz konkursy z Restauracją Rybka 2.0 🎷🎶\n\nPiątek, 20 grudnia\n🎭 16:00 – \"Gwiazdka Spełnionych Marzeń\" z przedszkolem Krasnal ✨\n🕕 18:00 – Christmas Party z DJ-em Randy! 🎧🎉\n\nSobota, 21 grudnia\n🤹‍♂️ 14:00 – Widowiskowy show cyrkowy \"Rupherth and Rico\" 🤡\n🎅 Koncert mikołajkowy i atrakcje dla dzieci: światełka, zabawy, konkursy i zimne ognie! 🎁🎄\n\nNiedziela, 22 grudnia\n🎤 14:30 – Koncert świąteczny zespołu SingSOK 🎶\n🕯️ 15:00 – Przekazanie Betlejemskiego Światła Pokoju 🌟\n🎵 15:30 – Koncert chóru szkolnego 🌟\n\n🎁 Domki wystawiennicze z bożonarodzeniowym asortymentem będą otwarte:\n📌 Piątek: 14:00–19:00\n📌 Niedziela: 13:00–18:00\n\nNie przegap tego magicznego wydarzenia – poczuj atmosferę świąt i spędź ten czas z bliskimi! 🌟🎄🎶",
-        "MainImage": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Events/Culture/jarmarkmain.jpg",
-        "ShortDescription": "w Nowej Dębie",
-        "Start": "2024-12-18T18:00:00",
-        "Url": "https://www.soknowadeba.pl/jarmark-bozonarodzeniowy-2/",
-        "Wstep": "Wstęp wolny"
-    },
-    {
-        "CarouselId": 11,
-        "Version": 1,
-        "IsActive": true,
         "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/vrgsmpl.png",
         "CastDirection": "localservice",
         "Language": "pl",
@@ -45,9 +27,35 @@
         "Thumbnail": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Services/electrofix/vrgsmlogo.jpg",
         "Website": "https://www.facebook.com/profile.php?id=100083024297841"
     },
-    {
+	{
+	"CarouselId": 11,
+        "Version": 7,
+        "IsActive": true,
+	"Category": "renovation",
+	"CastDirection": "localservice",
+	"CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/jerrycarouselpl.png",
+	"CreatedAt": "2024-06-26T23:26:55",
+	"Date": null,
+	"Description": "Jestem doświadczonym i kreatywnym projektantem meblarzem, z 10 letnią praktyką, którego pasją jest tworzenie unikalnych i funkcjonalnych mebli dopasowanych do indywidualnych potrzeb klientów. \n\nSpecjalizuję się w tworzeniu zaawansowanych wizualizacji dla stolarzy i nie tylko. Dzięki swoim umiejętnościom i doświadczeniu, potrafię przełożyć wizje klientów na realistyczne i szczegółowe projekty, które ułatwiają proces produkcji mebli na wymiar. \n\nMoja praca wspiera stolarzy na każdym etapie realizacji, zapewniając precyzyjne plany i wizualne przewodniki, które minimalizują ryzyko błędów i maksymalizują zadowolenie klientów. \n\nJesteś stolarzem lub osobą prywatną? Potrzebujesz wizualizacji i szczegółowego projektu? Zapraszam do kontaktu!",
+	"EnglishSprechen": "With a little help of Google Translate ;)",
+	"Latitude": 0,
+	"Longitude": 0,
+	"Mail": "jerryvision@autograf.pl",
+	"MainImage": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Services/renovation/jerrymainjarek.jpg",
+	"Name": "Jerryvision Projekt",
+	"OpenHours": "Prosimy o kontakt :)",
+	"Paid": false,
+	"Place": "Nowa Dęba i okolice",
+	"Pricing": null,
+	"Priority": 1,
+	"ShortDescription": "Projekty i wizualizacje wnętrz",
+	"SubCategory": "filter3 filter5",
+	"Telephone": "+48 730 787 737",
+	"Thumbnail": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Services/renovation/jerrythumb.jpg"
+    },
+	{
         "CarouselId": 12,
-        "Version": 5,
+        "Version": 2,
         "IsActive": true,
         "Name": "Twoje ogłoszenie",
         "Category": "other",
@@ -64,6 +72,6 @@
         "ShortDescription": "w mCity Nowa Dęba",
         "SubCategory": "none",
         "Telephone": "+48 538 646 397",
-        "MainImage": "https://turkawasolutions.eu/wp-content/uploads/Carousel/mcityreklama.png"
+		"MainImage": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/mcityreklama.png"
     }
 ]
