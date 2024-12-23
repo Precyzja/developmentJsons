@@ -3,7 +3,7 @@
         "CarouselId": 10,
         "Version": 6,
         "IsActive": true,
-        "CarouselPicture": "https://turkawasolutions.eu/wp-content/uploads/Carousel/vrgsmpl.png",
+        "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/vrgsmpl.png",
         "CastDirection": "localservice",
         "Language": "pl",
         "Category": "electrofix",
@@ -14,7 +14,7 @@
         "Latitude": 50.41698510904489,
         "Longitude": 21.749962034862584,
         "Mail": "VrGsm24@gmail.com",
-        "MainImage": "https://turkawasolutions.eu/wp-content/uploads/Services/electrofix/vrgsmmain.jpg",
+        "MainImage": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Services/electrofix/vrgsmmain.jpg",
         "Name": "VrGsm Serwis",
         "OpenHours": "Pon - Pt: 8.30 - 16.30\nSob: 9.00 - 13.00",
         "Paid": false,
@@ -24,7 +24,7 @@
         "ShortDescription": "Urządzenia Mobilne i Elektronika",
         "SubCategory": "",
         "Telephone": "+48 607 167 967",
-        "Thumbnail": "https://turkawasolutions.eu/wp-content/uploads/Services/electrofix/vrgsmlogo.jpg",
+        "Thumbnail": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Services/electrofix/vrgsmlogo.jpg",
         "Website": "https://www.facebook.com/profile.php?id=100083024297841"
     },
 	{
@@ -33,7 +33,7 @@
         "IsActive": true,
 	"Category": "renovation",
 	"CastDirection": "localservice",
-	"CarouselPicture": "https://turkawasolutions.eu/wp-content/uploads/Carousel/jerrycarouselpl.png",
+	"CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/jerrycarouselpl.png",
 	"CreatedAt": "2024-06-26T23:26:55",
 	"Date": null,
 	"Description": "Jestem doświadczonym i kreatywnym projektantem meblarzem, z 10 letnią praktyką, którego pasją jest tworzenie unikalnych i funkcjonalnych mebli dopasowanych do indywidualnych potrzeb klientów. \n\nSpecjalizuję się w tworzeniu zaawansowanych wizualizacji dla stolarzy i nie tylko. Dzięki swoim umiejętnościom i doświadczeniu, potrafię przełożyć wizje klientów na realistyczne i szczegółowe projekty, które ułatwiają proces produkcji mebli na wymiar. \n\nMoja praca wspiera stolarzy na każdym etapie realizacji, zapewniając precyzyjne plany i wizualne przewodniki, które minimalizują ryzyko błędów i maksymalizują zadowolenie klientów. \n\nJesteś stolarzem lub osobą prywatną? Potrzebujesz wizualizacji i szczegółowego projektu? Zapraszam do kontaktu!",
@@ -41,7 +41,7 @@
 	"Latitude": 0,
 	"Longitude": 0,
 	"Mail": "jerryvision@autograf.pl",
-	"MainImage": "https://turkawasolutions.eu/wp-content/uploads/Services/renovation/jerrymainjarek.jpg",
+	"MainImage": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Services/renovation/jerrymainjarek.jpg",
 	"Name": "Jerryvision Projekt",
 	"OpenHours": "Prosimy o kontakt :)",
 	"Paid": false,
@@ -51,7 +51,7 @@
 	"ShortDescription": "Projekty i wizualizacje wnętrz",
 	"SubCategory": "filter3 filter5",
 	"Telephone": "+48 730 787 737",
-	"Thumbnail": "https://turkawasolutions.eu/wp-content/uploads/Services/renovation/jerrythumb.jpg"
+	"Thumbnail": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Services/renovation/jerrythumb.jpg"
     },
 	{
         "CarouselId": 12,
@@ -72,6 +72,6 @@
         "ShortDescription": "w mCity Nowa Dęba",
         "SubCategory": "none",
         "Telephone": "+48 538 646 397",
-		"MainImage": "https://turkawasolutions.eu/wp-content/uploads/Carousel/mcityreklama.png"
+		"MainImage": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/mcityreklama.png"
     }
 ]
