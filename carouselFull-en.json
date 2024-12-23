@@ -3,7 +3,7 @@
       "CarouselId": 10,
       "Version": 4,
       "IsActive": true,
-      "CarouselPicture": "https://turkawasolutions.eu/wp-content/uploads/Carousel/vrgsmen.png",
+      "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/vrgsmen.png",
       "CastDirection": "localservice",
       "Language": "en",
       "Category": "electrofix",
@@ -14,7 +14,7 @@
       "Latitude": 50.41698510904489,
       "Longitude": 21.749962034862584,
       "Mail": "VrGsm24@gmail.com",
-      "MainImage": "https://turkawasolutions.eu/wp-content/uploads/Services/electrofix/vrgsmmain.jpg",
+      "MainImage": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Services/electrofix/vrgsmmain.jpg",
       "Name": "VrGsm Service",
       "OpenHours": "Mon - Fri: 8.30 AM - 4.30 PM\nSat: 9.00 AM - 1.00 PM",
       "Paid": false,
@@ -24,7 +24,7 @@
       "ShortDescription": "Mobile devices and electronics",
       "SubCategory": "",
       "Telephone": "+48 607 167 967",
-      "Thumbnail": "https://turkawasolutions.eu/wp-content/uploads/Services/electrofix/vrgsmlogo.jpg",
+      "Thumbnail": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Services/electrofix/vrgsmlogo.jpg",
       "Website": "https://www.facebook.com/profile.php?id=100083024297841"
     },
     
@@ -33,7 +33,7 @@
       "Version": 8,
 	  "Category": "renovation",
 	  "IsActive": true,
-	  "CarouselPicture": "https://turkawasolutions.eu/wp-content/uploads/Carousel/jerrycarouselen.png",
+	  "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/jerrycarouselen.png",
       "CastDirection": "localservice",
 	  "CreatedAt": "2024-06-26T23:26:57",
 		 "Date": null,
@@ -42,7 +42,7 @@
 		 "Latitude": 0,
 		 "Longitude": 0,
 		 "Mail": "jerryvision@autograf.pl",
-		 "MainImage": "https://turkawasolutions.eu/wp-content/uploads/Services/renovation/jerrymainjarek.jpg",
+		 "MainImage": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Services/renovation/jerrymainjarek.jpg",
 		 "Name": "Jerryvision Projekt",
 		 "OpenHours": "Please call us to discuss details.",
 		 "Paid": false,
@@ -71,6 +71,6 @@
         "ShortDescription": "w mCity",
         "SubCategory": "none",
         "Telephone": "+48 538 646 397",
-		"MainImage": "https://turkawasolutions.eu/wp-content/uploads/Carousel/mcityreklama.png"
+		"MainImage": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/mcityreklama.png"
     }
 ]
