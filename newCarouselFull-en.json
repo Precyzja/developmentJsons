@@ -1,27 +1,9 @@
 [
-	{
-        "CarouselId": 10,
-        "Version": 5,
-        "IsActive": true,
-        "Name": "Christmas Market",
-        "Type": "kultura",
-        "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/jarmarkpl.jpg",
-        "CastDirection": "localevent",
-        "Destination": 3,
-        "Language": "en",
-        "Lokacja": "Cultural Center in Nowa Dęba",
-        "LongDescription": "🎄✨ Join us at the Christmas Market at the Cultural Center in Nowa Dęba! 🎅🎶\n\nEnjoy the festive magic, special performances, and attractions for the whole family! 🌟🎁\n\n📅 Event Program:\n\nWednesday, December 18th\n🕕 6:00 PM – Outdoor Christmas Concert: performance by the Brass Orchestra of Nowa Dęba and competitions hosted by Rybka 2.0 Restaurant 🎷🎶\n\nFriday, December 20th\n🎭 4:00 PM – \"The Star of Fulfilled Dreams\" with Krasnal Preschool ✨\n🕕 6:00 PM – Christmas Party with DJ Randy! 🎧🎉\n\nSaturday, December 21st\n🤹‍♂️ 2:00 PM – Spectacular circus show \"Rupherth and Rico\" 🤡\n🎅 Christmas concert and fun for kids: lights, games, competitions, and sparklers! 🎁🎄\n\nSunday, December 22nd\n🎤 2:30 PM – Christmas concert by the SingSOK vocal group 🎶\n🕯️ 3:00 PM – Passing of the Bethlehem Light of Peace 🌟\n🎵 3:30 PM – Concert by the school choir 🌟\n\n🎁 Christmas stalls offering festive goods will be open:\n📌 Friday: 2:00–7:00 PM\n📌 Sunday: 1:00–6:00 PM\n\nDon’t miss this magical event – feel the Christmas spirit and spend this special time with your loved ones! 🌟🎄🎶",
-        "MainImage": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Events/Culture/jarmarkmain.jpg",
-        "ShortDescription": "in Nowa Dęba",
-        "Start": "2024-12-18T18:00:00",
-        "Url": "https://www.soknowadeba.pl/jarmark-bozonarodzeniowy-2/",
-        "Wstep": "Free for all"
-    },
     {
-      "CarouselId": 11,
-      "Version": 8,
+      "CarouselId": 10,
+      "Version": 4,
       "IsActive": true,
-      "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/vrgsmen.png",
+      "CarouselPicture": "https://turkawasolutions.eu/wp-content/uploads/Carousel/vrgsmen.png",
       "CastDirection": "localservice",
       "Language": "en",
       "Category": "electrofix",
@@ -32,7 +14,7 @@
       "Latitude": 50.41698510904489,
       "Longitude": 21.749962034862584,
       "Mail": "VrGsm24@gmail.com",
-      "MainImage": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Services/electrofix/vrgsmmain.jpg",
+      "MainImage": "https://turkawasolutions.eu/wp-content/uploads/Services/electrofix/vrgsmmain.jpg",
       "Name": "VrGsm Service",
       "OpenHours": "Mon - Fri: 8.30 AM - 4.30 PM\nSat: 9.00 AM - 1.00 PM",
       "Paid": false,
@@ -42,8 +24,33 @@
       "ShortDescription": "Mobile devices and electronics",
       "SubCategory": "",
       "Telephone": "+48 607 167 967",
-      "Thumbnail": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Services/electrofix/vrgsmlogo.jpg",
+      "Thumbnail": "https://turkawasolutions.eu/wp-content/uploads/Services/electrofix/vrgsmlogo.jpg",
       "Website": "https://www.facebook.com/profile.php?id=100083024297841"
+    },
+    
+	{
+	  "CarouselId": 11,
+      "Version": 8,
+	  "Category": "renovation",
+	  "IsActive": true,
+	  "CarouselPicture": "https://turkawasolutions.eu/wp-content/uploads/Carousel/jerrycarouselen.png",
+      "CastDirection": "localservice",
+	  "CreatedAt": "2024-06-26T23:26:57",
+		 "Date": null,
+		 "Description": "I am experienced and creative furniture designer, with 10 years of experience, whose passion is creating unique and functional furniture tailored to the individual needs of customers.\n\nI specialize in creating advanced visualizations for carpenters and others. Thanks to my skills and experience, I can translate clients' visions into realistic and detailed designs that facilitate the process of producing custom-made furniture.\n\nMy work supports carpenters at every stage of implementation, providing precise plans and visual guides that minimize the risk of errors and maximize customer satisfaction.\n\nAre you a carpenter or a private person? Do you need visualization and a detailed design? Feel free to contact me!",
+		 "EnglishSprechen": "With a little help of Google Translate ;)",
+		 "Latitude": 0,
+		 "Longitude": 0,
+		 "Mail": "jerryvision@autograf.pl",
+		 "MainImage": "https://turkawasolutions.eu/wp-content/uploads/Services/renovation/jerrymainjarek.jpg",
+		 "Name": "Jerryvision Projekt",
+		 "OpenHours": "Please call us to discuss details.",
+		 "Paid": false,
+		 "Place": "Nowa Dęba",
+		 "Pricing": null,
+		 "Priority": 1,
+		 "ShortDescription": "Interior design & visualization",
+		 "Telephone": "+48 730 787 737"
     },
 	{
         "CarouselId": 12,
@@ -64,6 +71,6 @@
         "ShortDescription": "w mCity",
         "SubCategory": "none",
         "Telephone": "+48 538 646 397",
-	"MainImage": "https://turkawasolutions.eu/wp-content/uploads/Carousel/mcityreklama.png"
+		"MainImage": "https://turkawasolutions.eu/wp-content/uploads/Carousel/mcityreklama.png"
     }
 ]
