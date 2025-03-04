@@ -1,24 +1,6 @@
 [
   {
     "CarouselId": 10,
-    "Version": 20,
-    "IsActive": true,
-    "Name": "Charity evening",
-    "Type": "gmina",
-    "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/charytatywnywieczoren.png",
-    "CastDirection": "localevent",
-    "Destination": 3,
-    "Language": "en",
-    "Lokacja": "📍 Fire station hall, street Strażacka 3, Nowa Dęba",
-    "LongDescription": "📢 Charity Fitness Evening for Wiktoria 📢\n\nJoin us for a special evening full of fitness and support for Wiktoria Wilk from Grębów! 💪\n\n🗓 When: February 26, 2025, 6:00 PM\n🏠 Where: Fire Station in Poręby Dębskie\n🎯 Goal: Help Wiktoria regain her health\n\nSchedule:\n6:00 PM - Katarzyna Mocek\n7:00 PM - Ewa Flis and Iwona Rymaniak\n\nDuring the event, there will be an opportunity to support financially through the siepomaga.pl platform and to throw donations into the cans on site.\n\nWe encourage you to participate and support this noble initiative! 🌟",
-    "MainImage": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Events/Community/wiktoriamain.jpg",
-    "ShortDescription": "Fitness for Wiktoria Wilk",
-    "Start": "2025-02-26T18:00:00",
-    "Url": "https://www.facebook.com/share/p/15owHUF5TS/",
-    "Wstep": "Free for all"
-},
-  {
-    "CarouselId": 11,
     "Version": 4,
     "IsActive": true,
     "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/vrgsmen.png",
@@ -47,7 +29,7 @@
   },
   
 {
-  "CarouselId": 12,
+  "CarouselId": 11,
     "Version": 8,
   "Category": "renovation",
   "IsActive": true,
@@ -69,5 +51,26 @@
    "Priority": 1,
    "ShortDescription": "Interior design & visualization",
    "Telephone": "+48 730 787 737"
+  },
+{
+      "CarouselId": 12,
+      "IsActive": true,
+      "Version": 3,
+      "Name": "Your ad in mCity",
+      "Category": "other",
+      "CastDirection": "localservice",
+      "Description": "If you'd like your ad to appear on the mCity home page, let us know! There are only 3 spots available.",
+      "EnglishSprechen": "You can post also in English!",
+      "Latitude": 0,
+      "Longitude": 0,
+      "Mail": "mcity@turkawasolutions.eu",
+      "CarouselPicture": "carouselmiejscenewen",
+      "Place": "mCity Nowa Dęba - top of the main page",
+      "Pricing": "Contact us to discuss details :)",
+      "Priority": 2,
+      "ShortDescription": "w mCity",
+      "SubCategory": "none",
+      "Telephone": "+48 538 646 397",
+  "MainImage": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/mcityreklama.png"
   }
 ]
