@@ -1,24 +1,6 @@
 [
     {
-		
         "CarouselId": 10,
-        "Version": 22,
-        "IsActive": true,
-        "Name": "Wielki Turniej ESportowy",
-        "Type": "fifa",
-        "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/esportmainpl.png",
-        "CastDirection": "localevent",
-        "Destination": 3,
-        "Language": "pl",
-        "Lokacja": "📍Remiza OSP, ul. Strażacka 3, Nowa Dęba",
- "LongDescription": "🚨  WIELKI TURNIEJ ESportowy!\nVrGsm wraz z Zarządem Osiedla Poręby Dębskie zapraszają na emocjonujące rozgrywki w FC25 i CS2! 🎮  \n\n🎮 TURNIEJ FC25\n- Brak ograniczeń wiekowych!  \n- Bez limitu zapisów!  \n- W zależności od liczby uczestników gramy w grupach lub systemem pucharowym.  \n- NAGRODA: Zwycięzca będzie reprezentował Stal Nową Dębę w Pucharze Polski FC25! 🏆\n  \n🌙 TURNIEJ CS2 (NOCNY)  \n- Start ok. godz. 19:00  \n- Ograniczenie wiekowe: 18+  \n- Maksymalnie 4 drużyny po 5 osób  \n- WAŻNE: Liczy się kolejność zgłoszeń!  \n\n📝 ZGŁOSZENIA:  \nPrzyjmujemy do 15.03.2025!  \nZapisy w VrGsm w godzinach 9:00-16:00.  \nNie przegap okazji, by zawalczyć o tytuł i świetnie się bawić! 🏆💥",
-		"MainImage": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Events/Fifa/esportmainpl.png",
-        "ShortDescription": "Vr-gsm i Poręby Dębskie",
-        "Start": "2025-03-22T15:00:00",
-        "Url": "https://www.facebook.com/share/p/18pF7zXDQh/"
-    },
-	{
-        "CarouselId": 11,
         "Version": 6,
         "IsActive": true,
         "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/vrgsmpl.png",
@@ -46,7 +28,7 @@
         "Website": "https://www.facebook.com/profile.php?id=100083024297841"
     },
 	{
-	"CarouselId": 12,
+	"CarouselId": 11,
         "Version": 7,
         "IsActive": true,
 	"Category": "renovation",
@@ -70,6 +52,26 @@
 	"SubCategory": "filter3 filter5",
 	"Telephone": "+48 730 787 737",
 	"Thumbnail": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Services/renovation/jerrythumb.jpg"
-    
+    },
+	{
+        "CarouselId": 12,
+        "Version": 2,
+        "IsActive": true,
+        "Name": "Twoje ogłoszenie",
+        "Category": "other",
+        "CastDirection": "localservice",
+        "Description": "Jeżeli chcesz, aby Twoje ogłoszenie pojawiło się na stronie głównej mCity daj nam znać! Jest tylko 3 dostępne miejsca.",
+        "EnglishSprechen": "You can post also in English!",
+        "Latitude": 0,
+        "Longitude": 0,
+        "Mail": "mcity@turkawasolutions.eu",
+        "CarouselPicture": "carouselmiejscenew",
+        "Place": "Strona główna aplikacji mCity Nowa Dęba - obszar przewijalny u góry strony",
+        "Pricing": "Zapraszamy do kontaktu :)",
+        "Priority": 2,
+        "ShortDescription": "w mCity Nowa Dęba",
+        "SubCategory": "none",
+        "Telephone": "+48 538 646 397",
+		"MainImage": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/mcityreklama.png"
     }
 ]
