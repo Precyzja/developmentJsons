@@ -1,24 +1,6 @@
 [
-	{
-		
-	"CarouselId": 10,
-	"Version": 22,
-	"IsActive": true,
-	"Name": "The Great Esports Tournament",
-	"Type": "fifa",
-	"CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/esportmainen.png",
-	"CastDirection": "localevent",
-	"Destination": 3,
-	"Language": "pl",
-	"Lokacja": "📍Fire station hall, street Strażacka 3, Nowa Dęba",
- "LongDescription": "🚨 GREAT ESPORTS TOURNAMENT!\n\nVrGsm together with the Poręby Dębskie Housing Estate Board invite you to exciting games in FC25 and CS2! 🎮\n\n🎮 FC25 TOURNAMENT\n- No age restrictions!\n\n- No registration limit!\n- Depending on the number of participants, we play in groups or in a cup system.\n- PRIZE: The winner will represent Stal Nowa Dęba in the FC25 Polish Cup! 🏆\n\n🌙 CS2 TOURNAMENT (NIGHT)\n- Start around 7:00 PM\n- Age restriction: 18+\n- Maximum 4 teams of 5 people\n- IMPORTANT: The order of applications counts!\n\n📝 APPLICATIONS:\nWe accept applications until 15.03.2025!\nRegistration at VrGsm from 9:00 to 16:00.\n\nDon't miss the opportunity to fight for the title and have a great time! 🏆💥",
-	"MainImage": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Events/Fifa/esportmainen.png",
-	"ShortDescription": "By Vrgsm and Poręby Dębskie",
-	"Start": "2025-03-22T15:00:00",
-	"Url": "https://www.facebook.com/share/p/18pF7zXDQh/"
-    },
   {
-    "CarouselId": 11,
+    "CarouselId": 10,
     "Version": 4,
     "IsActive": true,
     "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/vrgsmen.png",
@@ -47,7 +29,7 @@
   },
   
 {
-  "CarouselId": 12,
+  "CarouselId": 11,
     "Version": 8,
   "Category": "renovation",
   "IsActive": true,
