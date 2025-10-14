@@ -1,6 +1,42 @@
 [
   {
-    "CarouselId": 10,
+        "CarouselId": 10,
+        "Version": 22,
+        "IsActive": true,
+        "Name": "Pilates - group training",
+        "Type": "fifa-en",
+        "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/integracjapilatescarousel.png",
+        "CastDirection": "localevent",
+        "Destination": 3,
+        "Language": "en",
+        "Lokacja": "📍 School Complex No. 1 in Nowa Dęba, Reja Street 7, small gym",
+ "LongDescription": "Hello, Nowa Dęba! 🤎\n\nIf you're dreaming of some exercise, positive energy, and meeting great people, we have something for you! 😊\n\nWe invite you to free Pilates classes as part of the \"Power of Small Communities\" project. The initiative is run by the Active Together Nowa Dęba group under the patronage of the Q Foundation 🤝\n\nIt's a great opportunity to:\n✨ move your body (regardless of your physical condition!)\n✨ capture positive energy\n✨ meet neighbors and spend time in great company\n\nNo training experience necessary—just a smile and a willingness to be active 🧘🏻‍♀️☺️\n\nWe extend an invitation to every adult, regardless of age or gender. We're waiting for you 😍\n\n📅 When: Tuesdays at 7:00 PM\n👉 October 21\n👉 October 28\n👉 November 4\n\n🔥 Sign up via Facebook (message on the fanpage - link below) or call 661 832 284 📲\n\nBring a mat, water, and comfortable clothes—we'll take care of the rest! 💁🏻‍♀️\n\nWe practice barefoot in Pilates classes 😊\n\nSee you in class! 🙌\n\nPS. Follow us to stay up to date with our next activities 👍",
+		"MainImage": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Events/Sport/mCity Pilates - main.png",
+        "ShortDescription": "Integration via movement - part 1",
+        "Start": "2025-10-21T19:00:00",
+        "Url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0Dm7KapzHdZMNSQMTQMRkyx1UaSuJAsYZucw1CkrXz5V69s1hMPUWyfaxvJsPU721l&id=61575789929063",
+        "Wstep": "🎟️ Admission: FREE"
+    },
+	{
+        "CarouselId": 11,
+        "Version": 22,
+        "IsActive": true,
+        "Name": "Fitness - group training",
+        "Type": "fifa-en",
+        "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/integracjacarousel.png",
+        "CastDirection": "localevent",
+        "Destination": 3,
+        "Language": "en",
+        "Lokacja": "📍 School Complex No. 1 in Nowa Dęba, Reja Street 7, small gym",
+ "LongDescription": "Hello, Nowa Dęba! 🤎\n\nIf you're dreaming of some exercise, positive energy, and meeting great people, we have something for you! 😊\n\nWe invite you to free Pilates classes as part of the \"Power of Small Communities\" project. The initiative is run by the Active Together Nowa Dęba group under the patronage of the Q Foundation 🤝\n\nIt's a great opportunity to:\n✨ move your body (regardless of your physical condition!)\n✨ capture positive energy\n✨ meet neighbors and spend time in great company\n\nNo training experience necessary—just a smile and a willingness to be active 🧘🏻‍♀️☺️\n\nWe extend an invitation to every adult, regardless of age or gender. We're waiting for you 😍\n\n📅 When: Tuesdays at 6:00 PM\n👉 October 21\n👉 October 28\n👉 November 4\n\n🔥 Sign up via Facebook (message on the fanpage - link below) or call 661 832 284 📲\n\nBring a mat, water, and comfortable clothes—we'll take care of the rest! 💁🏻‍♀️\n\nFor fitness classes a sports shoes are required 😊\n\nSee you in class! 🙌\n\nPS. Follow us to stay up to date with our next activities 👍",
+		"MainImage": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Events/Sport/mCity Fitness - main.png",
+        "ShortDescription": "Integration via movement - part 1",
+        "Start": "2025-10-21T18:00:00",
+        "Url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0Dm7KapzHdZMNSQMTQMRkyx1UaSuJAsYZucw1CkrXz5V69s1hMPUWyfaxvJsPU721l&id=61575789929063",
+        "Wstep": "🎟️ Admission: FREE"
+    },
+  {
+    "CarouselId": 12,
     "Version": 4,
     "IsActive": true,
     "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/vrgsmen.png",
@@ -29,7 +65,7 @@
   },
   
 {
-  "CarouselId": 11,
+  "CarouselId": 13,
     "Version": 8,
   "Category": "renovation",
   "IsActive": true,
@@ -51,26 +87,5 @@
    "Priority": 1,
    "ShortDescription": "Interior design & visualization",
    "Telephone": "+48 730 787 737"
-  },
-{
-      "CarouselId": 12,
-      "IsActive": true,
-      "Version": 3,
-      "Name": "Your ad in mCity",
-      "Category": "other",
-      "CastDirection": "localservice",
-      "Description": "If you'd like your ad to appear on the mCity home page, let us know! There are only 3 spots available.",
-      "EnglishSprechen": "You can post also in English!",
-      "Latitude": 0,
-      "Longitude": 0,
-      "Mail": "mcity@turkawasolutions.eu",
-      "CarouselPicture": "carouselmiejscenewen",
-      "Place": "mCity Nowa Dęba - top of the main page",
-      "Pricing": "Contact us to discuss details :)",
-      "Priority": 2,
-      "ShortDescription": "w mCity",
-      "SubCategory": "none",
-      "Telephone": "+48 538 646 397",
-  "MainImage": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/mcityreklama.png"
   }
 ]
