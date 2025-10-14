@@ -1,6 +1,42 @@
 [
     {
         "CarouselId": 10,
+        "Version": 22,
+        "IsActive": true,
+        "Name": "Integracja przez ruch",
+        "Type": "fifa",
+        "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/integracjapilatescarousel.png",
+        "CastDirection": "localevent",
+        "Destination": 3,
+        "Language": "pl",
+        "Lokacja": "📍 ZS nr 1 w Nowej Dębie, ul. Reja 7, mała sala gimnastyczna",
+ "LongDescription": "Halo, Nowa Dęba! 🤎\n\nJeśli marzy Ci się trochę ruchu, dobrej energii i spotkania z fajnymi ludźmi — to mamy coś dla Ciebie! 😊\n\nZapraszamy na bezpłatne zajęcia pilates w ramach projektu „Moc Małych Społeczności”. Inicjatywę prowadzi grupa Aktywni Razem Nowa Dęba pod patronatem Fundacja Q 🤝\n\nTo świetna okazja, żeby:\n✨ rozruszać ciało (bez względu na formę!)\n✨ złapać pozytywną energię\n✨ poznać sąsiadów i spędzić czas w świetnym towarzystwie \n\nNie trzeba mieć doświadczenia w treningu — wystarczy uśmiech i chęć do aktywnego odpoczynku 🧘🏻‍♀️☺️\n\nZaproszenie kierujemy do każdego dorosłego, bez względu na wiek i płeć. Czekamy na Ciebie 😍\n\n📅 Kiedy: wtorki o godzinie 19\n👉 21.10\n👉 28.10\n👉 4.11\n\n🔥 Zapisz się przez Facebook (wiadomość na fanpage - link poniżej) lub tel. 661 832 284 📲 \n\nZabierz matę, wodę i wygodne ubranie — resztą zajmiemy się my! 💁🏻‍♀️\n\nNa zajęciach pilates ćwiczymy boso 😊\n\nDo zobaczenia na zajęciach! 🙌\n\nPS. Obserwuj, aby być na bieżąco z kolejnymi naszymi działaniami 👍",
+		"MainImage": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Events/Sport/mCity Pilates - main.png",
+        "ShortDescription": "Pilates - zajęcia grupowe",
+        "Start": "2025-10-21T19:00:00",
+        "Url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0Dm7KapzHdZMNSQMTQMRkyx1UaSuJAsYZucw1CkrXz5V69s1hMPUWyfaxvJsPU721l&id=61575789929063",
+        "Wstep": "🎟️ Wstęp: ZA DARMO!"
+    },
+	{
+        "CarouselId": 11,
+        "Version": 22,
+        "IsActive": true,
+        "Name": "Integracja przez ruch",
+        "Type": "fifa",
+        "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/integracjacarousel.png",
+        "CastDirection": "localevent",
+        "Destination": 3,
+        "Language": "pl",
+        "Lokacja": "📍 ZS nr 1 w Nowej Dębie, ul. Reja 7, mała sala gimnastyczna",
+ "LongDescription": "Halo, Nowa Dęba! 🤎\n\nJeśli marzy Ci się trochę ruchu, dobrej energii i spotkania z fajnymi ludźmi — to mamy coś dla Ciebie! 😊\n\nZapraszamy na bezpłatne zajęcia fitness w ramach projektu „Moc Małych Społeczności”. Inicjatywę prowadzi grupa Aktywni Razem Nowa Dęba pod patronatem Fundacja Q 🤝\n\nTo świetna okazja, żeby:\n✨ rozruszać ciało (bez względu na formę!)\n✨ złapać pozytywną energię\n✨ poznać sąsiadów i spędzić czas w świetnym towarzystwie \n\nNie trzeba mieć doświadczenia w treningu — wystarczy uśmiech i chęć do aktywnego odpoczynku 🧘🏻‍♀️☺️\n\nZaproszenie kierujemy do każdego dorosłego, bez względu na wiek i płeć. Czekamy na Ciebie 😍\n\n📅 Kiedy: wtorki o godzinie 19\n👉 21.10\n👉 28.10\n👉 4.11\n\n🔥 Zapisz się przez Facebook (wiadomość na fanpage - link poniżej) lub tel. 661 832 284 📲 \n\nZabierz matę, wodę i wygodne ubranie — resztą zajmiemy się my! 💁🏻‍♀️\n\nNa zajęciach fitness ćwiczymy w butach sportowych 😊\n\nDo zobaczenia na zajęciach! 🙌\n\nPS. Obserwuj, aby być na bieżąco z kolejnymi naszymi działaniami 👍",
+		"MainImage": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Events/Sport/mCity Fitness - main.png",
+        "ShortDescription": "Fitness - zajęcia grupowe",
+        "Start": "2025-10-21T18:00:00",
+        "Url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0Dm7KapzHdZMNSQMTQMRkyx1UaSuJAsYZucw1CkrXz5V69s1hMPUWyfaxvJsPU721l&id=61575789929063",
+        "Wstep": "🎟️ Wstęp: ZA DARMO!"
+    },
+	{
+        "CarouselId": 12,
         "Version": 6,
         "IsActive": true,
         "CarouselPicture": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/vrgsmpl.png",
@@ -28,7 +64,7 @@
         "Website": "https://www.facebook.com/profile.php?id=100083024297841"
     },
 	{
-	"CarouselId": 11,
+	"CarouselId": 13,
         "Version": 7,
         "IsActive": true,
 	"Category": "renovation",
@@ -52,26 +88,5 @@
 	"SubCategory": "filter3 filter5",
 	"Telephone": "+48 730 787 737",
 	"Thumbnail": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Services/renovation/jerrythumb.jpg"
-    },
-	{
-        "CarouselId": 12,
-        "Version": 2,
-        "IsActive": true,
-        "Name": "Twoje ogłoszenie",
-        "Category": "other",
-        "CastDirection": "localservice",
-        "Description": "Jeżeli chcesz, aby Twoje ogłoszenie pojawiło się na stronie głównej mCity daj nam znać! Jest tylko 3 dostępne miejsca.",
-        "EnglishSprechen": "You can post also in English!",
-        "Latitude": 0,
-        "Longitude": 0,
-        "Mail": "mcity@turkawasolutions.eu",
-        "CarouselPicture": "carouselmiejscenew",
-        "Place": "Strona główna aplikacji mCity Nowa Dęba - obszar przewijalny u góry strony",
-        "Pricing": "Zapraszamy do kontaktu :)",
-        "Priority": 2,
-        "ShortDescription": "w mCity Nowa Dęba",
-        "SubCategory": "none",
-        "Telephone": "+48 538 646 397",
-		"MainImage": "https://mcity-bucket.s3.eu-north-1.amazonaws.com/Carousel/mcityreklama.png"
     }
 ]
